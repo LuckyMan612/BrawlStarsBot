@@ -1,5 +1,6 @@
 # BrawlStarsBot
 ⚠️ **DISCLAIMER!!**  ****You can lose trophies while using the bot!! The bot's goal is to farm mastery****  ⚠️
+this bot is not created b me
 
 Brawl stars bot for farming mastery through solo showdown. The bot will find bushes and hide, it also attacks enemies if they are within range. Macro is integrated into the code to automate when defeated, it will queue up for another match automatically. 
 
