@@ -34,7 +34,7 @@ A recommended map to run the bot on is island invasion, using short/medium range
 ### Clone Repo
 1. Clone the repository 
 ```
-git clone https://github.com/Jooi025/BrawlStarsBot.git
+git clone https://github.com/LuckyMan612/BrawlStarsBot.git
 ```
 2. Install the required library
 ```
